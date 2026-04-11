@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+opencv-python
+numpy
+pandas
+plotly
+ultralytics
+deep-sort-realtime
+python-multipart
+httpx
