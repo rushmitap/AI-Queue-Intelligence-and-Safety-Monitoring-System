@@ -1,6 +1,7 @@
 import sys
 import time
 import subprocess
+from api.api import app
 
 def start_services():
     # Fix stdout encoding for Windows
