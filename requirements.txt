@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 streamlit
-opencv-python
+opencv-python-headless
 numpy
 pandas
 plotly
