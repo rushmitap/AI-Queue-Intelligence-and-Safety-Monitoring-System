@@ -1,14 +1,14 @@
 # 🛡️ AI Queue Intelligence & Safety Monitoring System
 
-An AI-powered computer vision system that analyzes queue behavior from video footage to improve crowd management, reduce wait times, and enhance public safety.
+Q-Save AI-powered computer vision system that analyzes queue behavior from video footage to improve crowd management, reduce wait times, and enhance public safety.
 
 ---
 
 ## 🚀 Overview
 
-This project uses **computer vision and motion analysis** to monitor queues in real time. It detects people, estimates wait times, analyzes crowd density, and identifies disruptive behaviors like **line-cutting, pushing, and aggression**.
+Our project uses **computer vision and motion analysis** to monitor queues in real time. It detects people, estimates wait times, analyzes crowd density, and identifies disruptive behaviors like **line-cutting, pushing, and aggression**.
 
-Built for an AI hackathon, this system demonstrates how intelligent automation can transform queue management in real-world environments.
+Built for an AI hackathon, our system demonstrates how intelligent automation can transform queue management in real-world environments.
 
 ---
 
