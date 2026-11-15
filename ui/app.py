@@ -29,7 +29,7 @@ def load_css(file_name):
     except Exception as e:
         pass
 
-load_css("ui/style.css")
+oad_css(ROOT_DIR / "ui" / "style.css")
 
 # --- Session State Management ---
 if 'running' not in st.session_state:
