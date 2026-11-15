@@ -9,3 +9,4 @@ ultralytics
 deep-sort-realtime
 python-multipart
 httpx
+setuptools<82
